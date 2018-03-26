@@ -12,18 +12,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-03-26T13:34:30.1141270-07:00
+  lastUpdatedAtString: 2018-03-26T13:35:28.0667270-07:00
   initializedAtString: 2018-03-26T13:34:30.1141270-07:00
-  localBranches: []
+  localBranches:
+  - name: master
+    tracking: '[None]'
+    isActive: 1
   remoteBranches: []
-  remotes: []
+  remotes:
+  - name: origin
+    url: https://github.com/adrums86/PDKMan.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: 
+        url: 
   remoteConfigBranches:
     keys: []
     subKeys: []
     subKeyValues: []
   configRemotes:
-    keys: []
-    values: []
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/adrums86/PDKMan.git

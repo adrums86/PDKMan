@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-03-26T13:34:30.1666550-07:00
+  lastUpdatedAtString: 2018-03-26T13:35:28.0697630-07:00
   initializedAtString: 2018-03-26T13:34:30.0744200-07:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/adrums86/PDKMan.git
     login: 
     user: 
     host: 
@@ -32,5 +32,5 @@ MonoBehaviour:
       name: 
       url: 
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/adrums86/PDKMan.git
